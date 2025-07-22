@@ -14,7 +14,7 @@ It demonstrates end-to-end connectivity and routing using dynamic protocols, loo
 
 ## 🌐 Network Topology
 
-![Topology](./images/topology.png)
+![Topology](.//ospf_bgp_mpls_network/images/Topology/Topology.png)
 
 ---
 
