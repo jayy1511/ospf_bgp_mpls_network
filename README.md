@@ -56,9 +56,10 @@ It demonstrates end-to-end connectivity and routing using dynamic protocols, loo
 
 ## 📎 Included Files
 
-- `presentation/Multi-Router-Network-with-OSPF-BGP-and-MPLS.pdf` – Project slides
-- `ospf_bgp_mpls.gns3project` – GNS3 project file
-- `images/topology.png` – Network diagram
+- `ospf_bgp_mpls_network.gns3` – GNS3 project file
+- `project-files/dynamips/` – GNS3 router configurations
+- `images/` – Screenshots of step-by-step configuration
+- `images/Topology/Topology.png` – Full network topology diagram
 
 ---
 
